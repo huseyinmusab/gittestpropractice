@@ -7,6 +7,8 @@ public class ClassOne {
         System.out.println("Hello today");
         System.out.println("Hi everyone");
         System.out.println("Here is a new update on local master");
+
+        System.out.println("her ewe have a different line");
     }
 
 }
