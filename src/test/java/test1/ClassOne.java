@@ -12,8 +12,11 @@ public class ClassOne {
 
 
 
-        System.out.println("Here is feature branch conflicting line");
 
+        System.out.println("Here is feature branch conflicting line");
+      
+      
+        System.out.println("a new conflicting line");
     }
 
 }
